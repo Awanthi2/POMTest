@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import Base.TestBase;
 
 public class LoginPage extends TestBase  {
-	//locators
+	//locatorss
 	@FindBy(name="email")
 	WebElement inputEmail;
 
