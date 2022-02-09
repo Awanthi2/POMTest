@@ -17,5 +17,6 @@ public class ContactPageTest extends TestBase {
   {
 	  loginPage=new LoginPage();
 	  loginPage.login("aavanthi2@gmail.com", "Aadvik@18");
+	  System.out.println("Hi");
   }
 }
