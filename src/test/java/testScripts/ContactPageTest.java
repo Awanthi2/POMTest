@@ -15,7 +15,7 @@ public class ContactPageTest extends TestBase {
   @Test
   public void validateUser()
   {
-	  System.Out.Println("Hello");
+	  System.out.println("Hello");
 	  loginPage=new LoginPage();
 	  loginPage.login("aavanthi2@gmail.com", "Aadvik@18");
 	  System.out.println("Hi");
